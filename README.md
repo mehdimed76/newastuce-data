@@ -7,4 +7,4 @@ Données publiques consommées par l'appli NewAstuce (réseau Astuce, Métropole
 
 Ce dépôt est alimenté automatiquement ; ne pas modifier à la main.
 
-Données source : Métropole Rouen Normandie, via transport.data.gouv.fr (Licence ouverte / ODbL selon le jeu de données).
+Données source : Métropole Rouen Normandie, via transport.data.gouv.fr, sous Licence Ouverte v2.0 (Etalab).
