@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "dataManifestUrl": "https://github.com/mehdimed76/newastuce-data/releases/download/data-latest/manifest.json",
+  "dataUrl": "https://github.com/mehdimed76/newastuce-data/releases/download/data-latest/astuce.db.gz",
+  "gtfsRt": [
+    {
+      "agency": "TCAR",
+      "url": "https://api.mrn.cityway.fr/dataflow/horaire-tc-tr/download?provider=TCAR&dataFormat=gtfs-rt"
+    },
+    {
+      "agency": "TAE",
+      "url": "https://api.mrn.cityway.fr/dataflow/horaire-tc-tr/download?provider=TAE&dataFormat=gtfs-rt"
+    },
+    {
+      "agency": "TNI",
+      "url": "https://api.mrn.cityway.fr/dataflow/horaire-tc-tr/download?provider=TNI&dataFormat=gtfs-rt"
+    }
+  ],
+  "cityway": {
+    "enabled": true,
+    "host": "https://api.mrn.cityway.fr",
+    "apiKey": "3727A684F6E24566A87B2195E2F6E9C6"
+  },
+  "banner": null,
+  "vehicles": [
+    {
+      "agency": "TCAR",
+      "url": "https://api.mrn.cityway.fr/dataflow/vehicle-tc-tr/download?provider=TCAR&dataFormat=gtfs-rt"
+    },
+    {
+      "agency": "TNI",
+      "url": "https://api.mrn.cityway.fr/dataflow/vehicule-tc-tr/download?provider=TNI&dataFormat=gtfs-rt"
+    }
+  ]
+}
